@@ -1,0 +1,26 @@
+button{
+    border-color:aquamarine;
+    border-style:dashed;
+    cursor: pointer;
+    color:aqua;
+    width: 85px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color:deeppink;
+}
+body{
+    background-color: rgb(226, 186, 255);
+}
+h1{
+    color: rgb(218, 126, 255);
+    text-decoration: underline;
+}
+.logo{
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: rgb(89, 197, 255);
+    border-style: solid;
+}
